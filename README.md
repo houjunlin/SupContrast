@@ -30,7 +30,6 @@ loss = criterion(features, labels)
 loss = criterion(features)
 ...
 ```
-
 ## Comparison
 Results on CIFAR-10:
 |          |Arch | Setting | Loss | Accuracy(%) |
